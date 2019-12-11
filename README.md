@@ -1,2 +1,4 @@
-# acamica-ds-labs
-Acamica Data Science Labs
+# Machine Learning
+
+* Acamica Data Science Labs
+* Coursera | Machine Learning Algorithms
